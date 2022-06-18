@@ -11,10 +11,10 @@ Hello! Thanks for cheking out this repository.
 It's a solution of a junior challange called "Project tracking intro component" made by Frontend Mentor.
 
 Here is the link of the challange-
-https://www.frontendmentor.io/challenges/project-tracking-intro-component-5d289097500fcb331a67d80e
+<https://www.frontendmentor.io/challenges/project-tracking-intro-component-5d289097500fcb331a67d80e>
 
 Here is the solution site url-
-https://drougnov.github.io/project-tracking-intro-component-master/
+<https://drougnov.github.io/project-tracking-intro-component-master/>
 
 ## Built with
 
@@ -26,9 +26,9 @@ https://drougnov.github.io/project-tracking-intro-component-master/
 
 ## Author
 
-Facebook -[Biplob Barua Rocky] https://www.facebook.com/ANT1D0t35
+Facebook -[Biplob Barua Rocky] <https://www.facebook.com/ANT1D0t35>
 
-Frontend Mentor - https://www.frontendmentor.io/profile/Drougnov
+Frontend Mentor - <https://www.frontendmentor.io/profile/Drougnov>
 
 ### Any suggestion
 
